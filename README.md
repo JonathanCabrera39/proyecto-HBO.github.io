@@ -1,2 +1,1 @@
-# proyecto-HBO.github.io
-proyecto-HBO
+# Proyecto-HBO
